@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/2069402/screenshots/5574718/media/8c5a6ae295d7b6e73adaa9ae68b3b8fd.gif | height = 150)](https://github.com/Vivek-68)
 
 
 <h1 align="center">Hi 👋, I'm Vivek!</h1>
